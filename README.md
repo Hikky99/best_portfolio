@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio by Hamza<br/>
   <a href="https://hamza.dataflrr.com" target="_blank"></a>
 </h2>
 <div align="center">
@@ -17,29 +17,16 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [hikky99](https://github.com/Hikky99/). 
-
-## Built With
+ [hikky99](https://github.com/Hikky99/). 
 
 
-This project was built using these technologies.
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+
+
 
 ## Features
 
-**📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
