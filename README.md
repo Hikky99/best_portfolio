@@ -10,20 +10,29 @@ Installation and Setup Instructions
 To run the portfolio locally on your machine, follow these steps:
 <li>
 Clone this repository using the command: git clone https://github.com/Hikky99/react-portfolio.git
+</li>
+<li>
 Navigate to the project directory: cd react-portfolio
-Install the required dependencies: npm install
-Start the development server: npm start
-Open your browser and go to http://localhost:3000 to view the portfolio.
-Usage Instructions
+</li>
+<li>
+  Install the required dependencies: npm install
+</li>
+<li>
+  Start the development server: npm start
+</li>
+<li>Open your browser and go to http://localhost:3000 to view the portfolio.
+</li>
+  Usage Instructions
   </li>
 Once you have the portfolio running locally, you can customize it with your own information.
 
 <li>
-Open the project folder and navigate to /src/components/.
-Inside this directory, you will find various components used in the portfolio.
-Edit the information in these components to add your own projects, skills, and details.
-Customize the styling by modifying the CSS files in /src/assets/css/.
-Add or replace images in /src/assets/images/ to personalize the portfolio with your own visuals.
+  
+<li>Open the project folder and navigate to /src/components/.</li>
+<li>Inside this directory, you will find various components used in the portfolio.</li>
+<li>Edit the information in these components to add your own projects, skills, and details.</li>
+<li>Customize the styling by modifying the CSS files in /src/assets/css/.</li>
+<li>Add or replace images in /src/assets/images/ to personalize the portfolio with your own visuals.
   </li>
 
   
