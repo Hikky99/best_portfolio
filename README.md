@@ -22,8 +22,9 @@ Navigate to the project directory: cd react-portfolio
 </li>
 <li>Open your browser and go to http://localhost:3000 to view the portfolio.
 </li>
-  Usage Instructions
-  </li>
+
+ Usage Instructions
+ 
 Once you have the portfolio running locally, you can customize it with your own information.
 
 <li>
