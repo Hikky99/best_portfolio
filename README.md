@@ -1,12 +1,14 @@
-React Portfolio
+<h1>Modern Futuristic Portfolio</h1>
 
-This is a personal portfolio website built with React. It showcases the projects, skills, and information of the portfolio owner.
+This is a personal portfolio website built with React. It showcases the projects, skills, and information of the portfolio owner. I deployed it to the Google Cloud App Engine.
 
-Live Demo
+<h2>Live Demo</h2>
 
-Check out the live demo of the portfolio at https://hamza.dataflrr.com.
+<p>Check out the live demo of the portfolio at https://portfolio-hikky.uw.r.appspot.com/ or  https://h.dataflrr.com.</p>
 
-Installation and Setup Instructions
+
+<h2>Installation and Setup Instructions</h2>
+
 To run the portfolio locally on your machine, follow these steps:
 <li>
 Clone this repository using the command: git clone https://github.com/Hikky99/react-portfolio.git
