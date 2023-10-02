@@ -1,6 +1,6 @@
 <h1>Modern Futuristic Portfolio</h1>
 
-This is a personal portfolio website I built with React. It showcases the projects, skills, and information that I have worked on. I deployed it to the Google Cloud App Engine.
+This is a personal portfolio website I built with React. It showcases the projects that I have worked on. I deployed it to the Google Cloud App Engine.
 
 <h2>Live Demo</h2>
 
